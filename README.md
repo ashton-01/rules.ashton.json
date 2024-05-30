@@ -1,5 +1,5 @@
 # rules.ashton.json
-Simple ruleset for TF2 Bot Detector.
+Simple ruleset for TF2 Bot Detector that detects bots via links and other junk that is spammed in the chat.
 
 To use, place rules.ashton.json in TF2 Bot Detector's cfg folder.
 
