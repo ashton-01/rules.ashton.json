@@ -15,7 +15,7 @@
 					"cheater"
 				]
 			},
-			"description": "chat spamming cheater related links, bot",
+			"description": "Bot",
 			"triggers": {
 				"chatmsg_text_match": {
 					"case_sensitive": false,
@@ -39,12 +39,13 @@
 					"cheater"
 				]
 			},
-			"description": "hidden characters in name commonly used by bots, bot",
+			"description": "Bot",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
+						"discord.gg/killtf2",
 						"ฺ",
 						"๊"
 					]
