@@ -32,6 +32,24 @@
 					]
 				}
 			}
-		}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "hidden characters in name, bot",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"ฺ",
+						"๊"
+					]
+				}
+			}
+		}	
 	]
 }
