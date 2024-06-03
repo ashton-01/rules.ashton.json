@@ -15,7 +15,7 @@
 					"cheater"
 				]
 			},
-			"description": "bot",
+			"description": "chat spamming cheater related links, bot",
 			"triggers": {
 				"chatmsg_text_match": {
 					"case_sensitive": false,
@@ -39,7 +39,7 @@
 					"cheater"
 				]
 			},
-			"description": "hidden characters in name, bot",
+			"description": "hidden characters in name commonly used by bots, bot",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": false,
