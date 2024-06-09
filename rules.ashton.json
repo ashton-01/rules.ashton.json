@@ -15,7 +15,7 @@
 					"cheater"
 				]
 			},
-			"description": "Bot",
+			"description": "Bot; from chatlist",
 			"triggers": {
 				"chatmsg_text_match": {
 					"case_sensitive": false,
@@ -43,7 +43,7 @@
 					"cheater"
 				]
 			},
-			"description": "Bot",
+			"description": "Bot; from namelist",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": false,
